@@ -251,7 +251,7 @@ Ensure the following environment variables are set in your `.env` file:
 ```
 MONGO_URI=mongodb+srv://Recipes:H5C79dfRdR2stPWy@cluster0.dsubcfq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 MONGO_DB_NAME=Recipes
-OPENAI_API_KEY=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
+OPENAI_API_KEY=sorry limit croshed
 PORT=4000
 ```
 
