@@ -1,0 +1,31 @@
+Title: Pancakes
+Ingredient: Flour
+Ingredient: Eggs
+Ingredient: Milk
+Instruction: Mix all ingredients together.
+Instruction: Cook on a pan until golden brown.
+Taste: Sweet
+Cuisine: American
+PreparationTime: 15 minutes
+Reviews: 4.5
+
+
+Title: Spaghetti Carbonara
+      Ingredient: 200g spaghetti
+Ingredient: 100g pancetta
+Ingredient: 2 large eggs
+Ingredient: 50g grated Parmesan
+Ingredient: 2 cloves garlic, minced
+Ingredient: Salt and black pepper to taste
+      Instruction: Cook spaghetti in salted boiling water until al dente.
+Instruction: Fry pancetta in a pan until crispy.
+Instruction: Whisk eggs and Parmesan together in a bowl.
+Instruction: Drain spaghetti, reserving some cooking water.
+Instruction: Mix spaghetti with pancetta and garlic in the pan.
+Instruction: Remove from heat and quickly stir in egg mixture.
+Instruction: Adjust consistency with reserved cooking water if needed.
+Instruction: Season with salt and pepper to taste.
+      Taste: Savory and creamy
+      Cuisine: Italian
+      PreparationTime: 30 minutes
+      Reviews: Delicious! My family loved it.,So easy to make, and tastes amazing.
