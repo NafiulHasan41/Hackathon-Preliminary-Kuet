@@ -9,7 +9,7 @@ const router = express.Router();
 const filePath = path.join(__dirname, '../data/my_fav_recipes.txt');
 
 const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY, // Make sure this is defined
+  apiKey: process.env.OPENAI_API_KEY, 
 });
 
 
