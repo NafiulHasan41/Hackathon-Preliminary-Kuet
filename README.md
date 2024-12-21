@@ -249,7 +249,7 @@ Replace `<PORT>` with the actual port number specified in your environment.
 Ensure the following environment variables are set in your `.env` file:
 
 ```
-MONGO_URI=mongodb+srv://Recipes:H5C79dfRdR2stPWy@cluster0.dsubcfq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+MONGO_URI=mongodb+srv://id:pass@cluster0.dsubcfq.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 MONGO_DB_NAME=Recipes
 OPENAI_API_KEY=sorry limit croshed
 PORT=4000
